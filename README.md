@@ -241,13 +241,13 @@ background: linear-gradient(135deg, #e0f7fa, #e8f5e9);
 
 header {
 background: linear-gradient(90deg, #009688, #26a69a);
-color: white;
+color: green;
 padding: 15px;
 text-align: center;
 }
 
 nav a {
-color: white;
+color: green;
 margin: 10px;
 text-decoration: none;
 font-weight: bold;
@@ -279,7 +279,7 @@ button {
 width: 100%;
 padding: 10px;
 background: linear-gradient(90deg, #43a047, #26a69a);
-color: white;
+color: green;
 border: none;
 cursor: pointer;
 }
@@ -297,12 +297,12 @@ text-align: center;
 
 th {
 background: #26a69a;
-color: white;
+color: green;
 }
 
 footer {
 background: #004d40;
-color: white;
+color: green;
 text-align: center;
 padding: 10px;
 margin-top: 20px;
